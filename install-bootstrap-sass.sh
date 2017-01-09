@@ -13,6 +13,7 @@ mv themes/$dwheel/THEMENAME.starterkit.yml themes/$dwheel/$dwheel.info.yml
 
 #Editing the file content with search/replace for THEMENAME and THEMETITLE
 sed -i "s/THEMENAME/$dwheel/g" themes/$dwheel/config/schema/$dwheel.schema.yml
+sed -i "s/THEMETITLE/$dwheel/g" themes/$dwheel/config/schema/$dwheel.schema.yml
 sed -i "s/THEMENAME/$dwheel/g" themes/$dwheel/$dwheel.info.yml
 sed -i "s/THEMETITLE/$dwheel/g" themes/$dwheel/$dwheel.info.yml
 

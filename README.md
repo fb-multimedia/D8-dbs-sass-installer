@@ -1,7 +1,7 @@
 # Drupal 8 bootstrap sass subtheme creation shell script
 
 Since version 8.x-3.0-rc2 (august 2016), the Drupal Bootstrap theme includes a Sass starterkit.
-This shell script installs and rename folders and edit files to create your subtheme based on the sass starterkit.
+This shell script install and rename folders and edit files to create your subtheme based on this sass starterkit.
 
 ## Requirements
 You need a Drupal 8 website with drupal bootstrap theme (8.x-3.0-rc2) installed on a linux server. This server must be able to use ruby-compass and drush commands. It needs read/write permissions on the D8 directory.
