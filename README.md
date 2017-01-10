@@ -15,7 +15,6 @@ Start the shell command prompt at this place and start the script with :
 <pre>Enter the new Drupal Bootstrap(sass) subtheme name to create:</pre>
 Enter your theme name and confirm with enter
 
-
 <pre>The following extensions will be enabled: yourthemename
 Do you really want to continue? (y/n):</pre>
 type 'y' and confirm with enter
@@ -28,12 +27,12 @@ At the end of the process you should read
 
 Then you should find your theme in a new themes/custom folder. The theme should be activated by default in drupal.
 
-## Details
-For details see the post (in french)
+## Commands Details
+For details of sh commands includes in this script, see the post (in french)
 http://www.fb-multimedia.fr/blog/cr%C3%A9er-theme-bootstrap-3sass-drupal-8
 
-## Tests
-It is a development tool script and it have been tested on an ubuntu linux VM (Drupal VM).
+## Development version
+This is a development tool script and it just have been tested on an ubuntu linux VM (Drupal VM). Don't use on production server.
 Use at your one risk, it comes with no warranty.
 
 ## Contributors
