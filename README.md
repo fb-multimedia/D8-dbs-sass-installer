@@ -7,7 +7,7 @@ This shell script install and rename folders and edit files to create your subth
 You need a Drupal 8 website with drupal bootstrap theme (8.x-3.0-rc2) installed on a linux server. This server must be able to use ruby-compass and drush commands. It needs read/write permissions on the D8 directory.
 
 ## Installation
-Download and place the script <b>install-bootstrap-sass.sh</b> at the root of the drupal folder installation, at same level as the /web folder.
+Download and place the script <b>install-bootstrap-sass.sh</b> at the root of the themes folder of your drupal installation.
 Start the shell command prompt at this place and start the script with :
 <pre>$ ./install-bootstrap-sass.sh</pre>
 
@@ -26,7 +26,7 @@ type 'y' to make your theme as default and confirm with enter
 At the end of the process you should read 
 <pre>Cache rebuild complete.  [ok]</pre>
 
-Then you should find your theme by default in drupal.
+Then you should find your theme in a new themes/custom folder. The theme should be activated by default in drupal.
 
 ## Details
 For details see the post (in french)
