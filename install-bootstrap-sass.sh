@@ -23,8 +23,9 @@ unzip custom/$dwheel/master.zip -d custom/$dwheel/
 mv custom/$dwheel/bootstrap-sass-master custom/$dwheel/bootstrap
 rm custom/$dwheel/master.zip
 
-#Edit the libraries.yml
+#Edit the libraries.yml and rename scss folder to sass
 sed -i "s/css\//stylesheets\//g" custom/$dwheel/$dwheel.libraries.yml
+mv custom/$dwheel/scss custom/$dwheel/sass
 
 #compil with compass to create stylesheets/style.css file
 cd custom/$dwheel
