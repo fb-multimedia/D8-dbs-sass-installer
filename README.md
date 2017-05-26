@@ -13,7 +13,7 @@ Start the shell command prompt at this place and start the script with :
 
 <b>During the process it will ask you</b>
 <pre>Enter the new Drupal Bootstrap(sass) subtheme name to create:</pre>
-Enter your theme name and confirm with enter
+Enter your theme's name and confirm with enter
 
 <pre>The following extensions will be enabled: yourthemename
 Do you really want to continue? (y/n):</pre>
