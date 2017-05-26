@@ -11,7 +11,7 @@ Download and place the script <b>install-bootstrap-sass.sh</b> at the root of th
 Start the shell command prompt at this place and start the script with :
 <pre>$ ./install-bootstrap-sass.sh</pre>
 
-<b>During the process it'll ask you</b>
+<b>During the process it will ask you</b>
 <pre>Enter the new Drupal Bootstrap(sass) subtheme name to create:</pre>
 Enter your theme name and confirm with enter
 
@@ -22,7 +22,7 @@ type 'y' and confirm with enter
 <pre>Do you want to update default key in system.theme config? (y/n):</pre>
 type 'y' to make your theme as default and confirm with enter
 
-At the end of the process you should read 
+At the end of the process you should read
 <pre>Cache rebuild complete.  [ok]</pre>
 
 Then you should find your theme in a new themes/custom folder. The theme should be activated by default in drupal.
