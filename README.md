@@ -36,7 +36,7 @@ This is a development tool script and it just have been tested on an ubuntu linu
 Use at your one risk, it comes with no warranty.
 
 ## Contributors
-https://github.com/fb-multimedia
+https://github.com/fb-multimedia<br>
 www.fb-multimedia.fr
 
 
