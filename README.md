@@ -42,4 +42,4 @@ www.fb-multimedia.fr
 
 
 ##About the autor
-Fred Boulanger is web developer since 2001 and specialized in drupal theming since 2011.
+Fred B. is web developer since 2001 and specialized in drupal theming since 2011.
