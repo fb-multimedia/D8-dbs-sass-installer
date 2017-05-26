@@ -36,7 +36,6 @@ This is a development tool script and it just have been tested on an ubuntu linu
 Use at your one risk, it comes with no warranty.
 
 ## Contributors
-Fred Boulanger
 https://github.com/fb-multimedia
 www.fb-multimedia.fr
 
